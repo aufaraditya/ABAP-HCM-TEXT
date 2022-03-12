@@ -1,5 +1,5 @@
 # ABAP-HCM-TEXT
-ABAP Global Utility Class to Retrieve HCM Related Text/Description
+ABAP Global Utility Class to Retrieve HCM Related Text/Description:
 
 * Employee Group
 * Employee Subgroup

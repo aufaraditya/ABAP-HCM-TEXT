@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Static Utility Class for Retrieving HCM Related Text/Desc</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_ABS_TYPE_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Absence Type Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_EMPLOYEE_GROUP_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Employee Group Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_EMPLOYEE_SUBGROUP_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Employee Subgroup Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_HOUSEBANK_ACC_NAME</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Housebank Account Name</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_INFTY_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Infotype Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_MARITSTAT_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Marital Status Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_PAYROLL_AREA_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Payroll Area Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_PERSONNEL_AREA_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Personnel Area Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_POSITION_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Position Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_SUBAREA_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Personnel Subarea Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_HCM_GET_DESCRIPTION</CLSNAME>
+     <CMPNAME>GET_SUBTY_TEXT</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get Subtype Text/Description</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
